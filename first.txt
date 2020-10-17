@@ -1,2 +1,3 @@
 hello from local repositiory
 editied from github.
+some text for the smartgit
