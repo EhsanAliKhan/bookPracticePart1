@@ -1,1 +1,2 @@
 a file made for smartgit
+a line added from remote repository
